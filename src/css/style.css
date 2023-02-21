@@ -1,0 +1,37 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.container .frame {
+    position: relative;
+}
+
+.container .frame .info {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 38px;
+    left: 25px;
+}
+
+.container .frame .info span.bord-name {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 10px;    
+}
+
+.container .frame .info span.author {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.container .frame .image img {
+    height: 430px;
+    width: 290px;
+}

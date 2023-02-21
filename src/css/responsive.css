@@ -1,0 +1,9 @@
+@media (max-width: 1050px) {
+    .container {
+        margin-top: 45px;
+    }
+    
+    .container .frame {
+        margin: 5px 10px;
+    }
+}
