@@ -1,10 +1,10 @@
 # Image List
 
 ## Visualização em desktop
-[<img src="./src/design/desktop.png">]()
+[<img src="./src/design/desktop.png">](https://duardohenrique.github.io/image-list/)
 
 ## Visualização em dispositivos móveis
-[<img src="./src/design/mobile.gif">]()
+[<img src="./src/design/mobile.gif">](https://duardohenrique.github.io/image-list/)
 
 (Pressione CTRL + clique na imagem para visualizar o projeto em uma nova aba)
 
